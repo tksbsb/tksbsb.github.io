@@ -1,0 +1,1 @@
+h1{padding:2rem 0}@media (min-width: 1400px){.map-md{display:block}.map-s,.map-xs{display:none}}@media (max-width: 1399px){.map-md{display:none}.map-s{display:block}.map-xs{display:none}}@media (max-width: 767px){.map-md,.map-s{display:none}.map-xs{display:block}}
