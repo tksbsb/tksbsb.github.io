@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as s}from"./index.49cf6aa4.js";const c={name:"SearchResultView",data(){return{}},methods:{},mounted(){}},a={class:"search-result container"};function n(o,r,_,u,i,l){return t(),s("div",a)}const p=e(c,[["render",n]]);export{p as default};
