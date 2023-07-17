@@ -1,0 +1,6 @@
+User-agent: Googlebot-Image
+
+# Wildcard character in the filename for
+# images that share a common suffix:
+Disallow: /IMG/product-small/*.jpg
+Disallow: /IMG/product-large/*.jpg
